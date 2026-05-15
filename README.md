@@ -1,6 +1,6 @@
 # Personal OS
 
-A private, offline-first desktop life dashboard built with Electron + React. All data is stored locally on your machine — nothing is sent to any server unless you opt into an AI coach feature.
+A private, offline-first desktop life dashboard built with Electron + React. All data is stored locally on your machine - nothing is sent to any server unless you opt into an AI coach feature.
 
 ## Features
 
