@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Personal notes / scratch files
+electron/Linkedin writing.md
+node_modules
