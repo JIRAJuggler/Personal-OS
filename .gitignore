@@ -13,5 +13,4 @@ dist/
 .env.*
 
 # Personal notes / scratch files
-electron/Linkedin writing.md
 node_modules
